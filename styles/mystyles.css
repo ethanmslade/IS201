@@ -1,0 +1,26 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif
+    
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+}
+div{
+    text-align: center;
+}
+
+ol{
+    font-family: 'Times New Roman', Times, serif;
+}
